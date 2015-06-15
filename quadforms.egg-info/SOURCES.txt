@@ -1,0 +1,7 @@
+setup.py
+QuadForms/__init__.py
+QuadForms/quadforms.py
+quadforms.egg-info/PKG-INFO
+quadforms.egg-info/SOURCES.txt
+quadforms.egg-info/dependency_links.txt
+quadforms.egg-info/top_level.txt
